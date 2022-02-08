@@ -1,4 +1,4 @@
-
+# using constructor
 class Add{
 	int a, b;
 	
